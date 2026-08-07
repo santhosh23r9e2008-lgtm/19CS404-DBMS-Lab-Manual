@@ -277,6 +277,10 @@ from Old_customers;
 <img width="1239" height="323" alt="image" src="https://github.com/user-attachments/assets/e85a8dc4-1a45-47a5-8d44-ef9c86482b14" />
 
 
+**MODULE-1 SEB GRADES**
+
+<img width="1915" height="623" alt="Screenshot 2026-08-07 144923" src="https://github.com/user-attachments/assets/c6db782a-0a74-41c4-8115-cdc367230e7a" />
+
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
